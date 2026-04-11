@@ -61,7 +61,7 @@
 
 
 
-// Example 2: Contains Duplicate
+// Example 2: Contains paginations 
 // Check if array has duplicate numbers
 
 // const nums = [1, 2, 3, 1];
